@@ -1,6 +1,6 @@
 ## Olá 👋 eu sou o Bruno Paraguassú Sousa!
 
-- 🔭 Atualmente estou desenvolvendo um projeto integrador na Digital House! e fazendo cursos na <img align="center" alt="Bruno-Nodejs" height="25" width="80" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"> de programação!
+- 🔭 Atualmente estou desenvolvendo um projeto integrador na Digital House! e fazendo cursos na <img align="center" alt="Bruno-Nodejs" height="25" width="80" src="https://img.shields.io/badge/Udemy-8b008b?style=for-the-badge&logo=Udemy&logoColor=white"> de programação!
 - 🌱 Estudando: Nodejs, JavaScript, Mysql, MongoDB, Express, React.
 - 😄 Pronouns: Ele/Dele
 
@@ -26,7 +26,7 @@
  
 <div> 
  <a href="https://discord.gg/6MbyuDpdgU" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatoparaguassu.sousa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contatoparaguassu.sousa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/bruno-sousa-741508205" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 

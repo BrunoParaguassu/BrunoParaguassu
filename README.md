@@ -4,10 +4,10 @@
 - 🌱 Estudando: Nodejs, JavaScript, Mysql, MongoDB, Express, React.
 - 😄 Pronouns: Ele/Dele
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/BrunoParaguassu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoParaguassu&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoParaguassu&layout=compact&langs_count=7&theme=blue-green"/>
+  <img width="450em" height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoParaguassu&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img width="550em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoParaguassu&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Bruno-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">

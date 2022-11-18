@@ -1,7 +1,7 @@
 ## Olá 👋 eu sou o Bruno Paraguassú Sousa!
 
 - 🔭 Atualmente estou desenvolvendo um projeto integrador na Digital House! e fazendo cursos na <img align="center" alt="Bruno-Nodejs" height="25" width="80" src="https://img.shields.io/badge/Udemy-8b008b?style=for-the-badge&logo=Udemy&logoColor=white"> de programação!
-- 🌱 Estudando: Nodejs, JavaScript, Mysql, MongoDB, Express, React.
+- 🌱 Desenvoledor: Nodejs, JavaScript, Mysql, MongoDB, Express, React.
 - 😄 Pronouns: Ele/Dele
 
 <div align="center">

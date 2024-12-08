@@ -1,27 +1,10 @@
 ## Olá 👋 eu sou o Bruno Paraguassú Sousa, Desenvolvedor FullStack! 
 
-- 🔭 Desenvolvi um site e-commerce com banco de dados e fazendo cursos na <img align="center" alt="Bruno-Nodejs" height="25" width="80" src="https://img.shields.io/badge/Udemy-8b008b?style=for-the-badge&logo=Udemy&logoColor=white"> de programação!
 - 🌱 Desenvoledor Front-end: Html5, Css3, Sass, Reactjs, TypeScript, Webpack, Vite, API, CI/CD (Github Actions).
-- 🌱 Desenvoledor Back-end: Nodejs, Mysql, Express, Sequelize, PHP, Laravel, Eloquent.
+- 🌱 Desenvoledor Back-end: Nodejs, Mysql, Express, Sequelize, PHP, Laravel, Eloquent, Python
 - 😄 Pronouns: Ele/Dele
 
-<div align="center">
-  <a href="https://github.com/BrunoParaguassu">
-  <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoParaguassu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoParaguassu&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Bruno-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Bruno-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Bruno-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Bruno-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Bruno-Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
-  <img align="center" alt="Bruno-Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg">
-  <img align="center" alt="Bruno-Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Bruno-Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-
-</div>
-  
+ 
   ##
  
 <div> 

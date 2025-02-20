@@ -1,6 +1,6 @@
 ## Olá 👋 eu sou o Bruno Paraguassú Sousa, Desenvolvedor FullStack! 
 
-- 🌱 Desenvoledor Front-end: Html5, Css3, Sass, Reactjs, TypeScript, Webpack, Vite, API, CI/CD (Github Actions).
+- 🌱 Desenvoledor Front-end: Html5, Css3, Sass, Tailwind, Reactjs, TypeScript, Webpack, Vite, API, CI/CD (Github Actions).
 - 🌱 Desenvoledor Back-end: Nodejs, Mysql, Express, Sequelize, PHP, Laravel, Eloquent, Python
 - 😄 Pronouns: Ele/Dele
 
